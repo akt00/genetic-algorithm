@@ -1,2 +1,2 @@
-# genetic-algorithm
-Genetic algorithm experiment automation for AI module, Part B
+# Genetic Algorithm
+Experimental genetic algorithm for creating autonomous evolution simulation
